@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow: 
+Sitemap: http://www.spectraautodetail.com/sitemap.xml
+Sitemap: http://www.spectraautodetail.com/es/sitemap.xml
